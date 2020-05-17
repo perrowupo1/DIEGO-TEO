@@ -1,0 +1,13 @@
+{
+"companyName": "YPS",
+"productName": "diego teo2",
+"dataUrl": "EXPOR diego teo.data.unityweb",
+"asmCodeUrl": "EXPOR diego teo.asm.code.unityweb",
+"asmMemoryUrl": "EXPOR diego teo.asm.memory.unityweb",
+"asmFrameworkUrl": "EXPOR diego teo.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
